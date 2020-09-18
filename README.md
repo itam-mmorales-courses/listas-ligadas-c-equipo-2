@@ -2,4 +2,4 @@
 **Participantes:**
 Mariano Franco
 Manuel Joaquín Hermida Flores
-Karen Arteaga
+Karen Arteaga Mendoza
