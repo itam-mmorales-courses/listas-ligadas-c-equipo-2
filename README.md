@@ -1,5 +1,5 @@
 # com11103-listas-c
 **Participantes:**
 Mariano Franco
-Manuel Hermida
+Manuel Joaquín Hermida Flores
 Karen Arteaga
