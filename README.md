@@ -1,4 +1,4 @@
-# com11103-listas-c
+# Listas Ligadas C: Equipo 2
 **Participantes:**
 
 Mariano Franco 181335
