@@ -1,5 +1,7 @@
 # com11103-listas-c
 **Participantes:**
-Mariano Franco
-Manuel Hermida
+Mariano Franco 181335
+
+Manuel Hermida 
+
 Karen Arteaga
